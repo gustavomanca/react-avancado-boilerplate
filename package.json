@@ -2,6 +2,11 @@
   "name": "boilerplate",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Gustavo Manca",
+    "email": "gustavo.mancaa@gmail.com",
+    "url": "https://github.com/gustavomanca"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
